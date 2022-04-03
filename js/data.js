@@ -1,6 +1,6 @@
 const populationData = [{
   arg: 1960,
-  val: 123,
+  val: 600,
 }, {
   arg: 1970,
   val: 111,
@@ -9,7 +9,7 @@ const populationData = [{
   val: 23,
 }, {
   arg: 1990,
-  val: 3213,
+  val: 500,
 }, {
   arg: 2000,
   val: 12,

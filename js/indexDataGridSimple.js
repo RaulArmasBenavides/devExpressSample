@@ -118,6 +118,16 @@ const customers = [{
     Phone: '(800) 445-6937',
     Fax: '(800) 445-6938',
     Website: 'http://www.nowebsitescreenshop.com',
+  }, {
+    ID: 13,
+    CompanyName: 'Luz del Sur',
+    Address: 'Av. Caminos del Inca 2019',
+    City: 'Lima',
+    State: 'Lima',
+    Zipcode: 28217,
+    Phone: '(800) 445-6937',
+    Fax: '(800) 445-6938',
+    Website: 'https://www.luzdelsur.com.pe/es',
   }];
   
 
